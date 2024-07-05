@@ -5,3 +5,5 @@ print(msg)
 print("my name in ravi kumar")
 print(number)
 print(charachter)
+number = 20
+print(number)
